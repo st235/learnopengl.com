@@ -15,7 +15,7 @@ MacOS was used with this [boostraped basic project.](https://github.com/st235/le
 | 07. Textures | | ![Hello trinagle](./images/7-textures-ex2.png) | ![Hello trinagle](./images/7-textures-ex4.gif) |
 | 08. Transformations | | ![Hello trinagle](./images/8-transformations-ex1.gif) | ![Hello trinagle](./images/8-transformations-ex2.gif) |
 | 09. Coordinate Systems | | ![Hello trinagle](./images/9-coordinate-systems-final.png) | ![Hello trinagle](./images/9-coordinate-systems-rotation.gif) |
-| 10. Review | | ![Hello trinagle](./images/10-camera-custom-matrix.gif) | ![Hello trinagle](./images/10-camera-zoom.gif) |
+| 10. Camera | | ![Hello trinagle](./images/10-camera-custom-matrix.gif) | ![Hello trinagle](./images/10-camera-zoom.gif) |
 
 ## Lighthing
 
