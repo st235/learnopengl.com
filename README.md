@@ -19,3 +19,7 @@ MacOS was used with this [boostraped basic project.](https://github.com/st235/le
 
 ## Lighthing
 
+| Lesson | Description | Scr. 1 | Scr. 2|
+| ----- | ----- | ----- | ----- |
+| 12. Colors | | ![Colors](./images/12-colors.png) | |
+| 13. Basic Lighting | | ![Basic Lighting](./images/13-basic-lighting.gif) | ![GoUround](./images/13-basic-lighting-diffuse-gouraund.png) |
