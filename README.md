@@ -24,3 +24,4 @@ MacOS was used with this [boostraped basic project.](https://github.com/st235/le
 | 12. Colors | | ![Colors](./images/12-colors.png) | |
 | 13. Basic Lighting | | ![Basic Lighting](./images/13-basic-lighting.gif) | ![GoUround](./images/13-basic-lighting-diffuse-gouraund.png) |
 | 14. Materials | | ![Demo](./images/14-materials-demo.gif) | ![Demo Materials](./images/14-materials-demo3.png) |
+| 15. Lighting Maps | | ![Base](./images/15-lighting-maps-base2.png) | ![Emission](./images/15-lighting-maps-ex3-alt.png) |
