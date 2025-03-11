@@ -1,15 +1,3 @@
-// Ex. 1
-// Try inverting the color values of the specular map in the fragment shader so that the wood
-// shows specular highlights and the steel borders do not (note that due to the cracks in the steel
-// border the borders still show some specular highlight, although with less intensity). Solution:
-// /src/2.lighting/4.3.lighting_maps_exercise2/.
-
-// Ex. 2
-// Try creating a specular map from the diffuse texture that uses actual colors instead of black
-// and white and see that the result doesn’t look too realistic. You can use the following image
-// if you can’t generate one yourself: learnopengl.com/img/lighting/lighting_maps_specular_color.png.
-// Result: learnopengl.com/img/lighting/lighting_maps_exercise3.png.
-
 #include <iostream>
 
 #include <glad.h>
