@@ -19,5 +19,7 @@ CMakeUserPresets.json
 **/temp
 **/tmp
 
-# MacOS.
+# Misc.
 **/.DS_Store
+.vscode
+.idea

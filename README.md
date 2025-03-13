@@ -27,3 +27,9 @@ MacOS was used with this [boostraped basic project.](https://github.com/st235/le
 | 15. Lighting Maps | | ![Base](./images/15-lighting-maps-base2.png) | ![Emission](./images/15-lighting-maps-ex3-alt.png) |
 | 16. Light Casters | | ![Positional Light](./images/16-light-casters-positional-light-alt2.png) | ![Spot Light](./images/16-light-casters-spot-light-alt.png) |
 | 17. Multiple Lights | | ![Base](./images/17-multiple-lights-alt2.png) | ![Demo](./images/17-multiple-lights.gif) |
+
+## Model Loading
+
+| Lesson | Description | Scr. 1 | Scr. 2|
+| ----- | ----- | ----- | ----- |
+| 21. Model | | ![Base](./images/21-model.png) | ![Alt. 1](./images/21-model-alt.png) |
