@@ -39,3 +39,4 @@ MacOS was used with this [boostraped basic project.](https://github.com/st235/le
 | Lesson | Description | Scr. 1 | Scr. 2|
 | ----- | ----- | ----- | ----- |
 | 22. Depth Testing | | ![Base](./images/22-depth-testing.png) | |
+| 23. Stencil Testing | | ![Base](./images/23-stencil-testing-alt.png) | ![Alt. 1](./images/23-stencil-testing-alt1.png) |
