@@ -33,3 +33,9 @@ MacOS was used with this [boostraped basic project.](https://github.com/st235/le
 | Lesson | Description | Scr. 1 | Scr. 2|
 | ----- | ----- | ----- | ----- |
 | 21. Model | | ![Base](./images/21-model.png) | ![Alt. 1](./images/21-model-alt.png) |
+
+## Advanced OpenGL
+
+| Lesson | Description | Scr. 1 | Scr. 2|
+| ----- | ----- | ----- | ----- |
+| 22. Depth Testing | | ![Base](./images/22-depth-testing.png) | |
