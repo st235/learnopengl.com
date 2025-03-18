@@ -40,3 +40,4 @@ MacOS was used with this [boostraped basic project.](https://github.com/st235/le
 | ----- | ----- | ----- | ----- |
 | 22. Depth Testing | | ![Base](./images/22-depth-testing.png) | |
 | 23. Stencil Testing | | ![Base](./images/23-stencil-testing-alt.png) | ![Alt. 1](./images/23-stencil-testing-alt1.png) |
+| 24. Blending | | ![Base](./images/24-blending.png) | ![Alt. 1](./images/24-blending-alt.png) |
