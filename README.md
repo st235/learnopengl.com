@@ -43,3 +43,4 @@ MacOS was used with this [boostraped basic project.](https://github.com/st235/le
 | 24. Blending | | ![Base](./images/24-blending.png) | ![Alt. 1](./images/24-blending-alt.png) |
 | 25. Face Culling | | ![Base](./images/25-face-culling.gif) | ![Back culling](./images/25-face-culling-back.png) |
 | 26. Framebuffers | | ![Base](./images/26-framebuffers.gif) | ![Back culling](./images/26-framebuffers-alt2.png) |
+| 27. Cubemaps | | ![Base](./images/27-cubemaps-alt1.png) | ![Reflection](./images/27-cubemaps-reflect.png) |
